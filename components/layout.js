@@ -31,7 +31,7 @@ export default function Layout({ children, home }) {
             <Image
               priority={true}
               src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
+              className={utilStyles.borderSquare}
               height={144}
               width={144}
               alt=""
